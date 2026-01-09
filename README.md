@@ -22,7 +22,7 @@ Para uma interação mais inteligente e personalizada, o chatbot conta com:
 
 ## 🚀 COMO UTILIZAR (DEMONSTRAÇÃO)
 
-Para experimentar o Chatbot Xisto Flavor acesse, **https://pamela-santos-ie1w3.chat.blip.ai/?appKey=eGlzdG9mbGF2b3I6ZTM5ODRkYjMtNWU4OC00OTVhLTk2YTctYzAwMDZmZDc1YzBm**.
+Para experimentar o Chatbot Xisto Flavor acesse, **[https://pamela-santos-ie1w3.chat.blip.ai/?appKey=eGlzdG9mbGF2b3I6ZTM5ODRkYjMtNWU4OC00OTVhLTk2YTctYzAwMDZmZDc1YzBm](https://pamela-santos-ie1w3.chat.blip.ai/?appKey=eGlzdG9mbGF2b3I6ZTM5ODRkYjMtNWU4OC00OTVhLTk2YTctYzAwMDZmZDc1YzBm&_gl=1*bc9nm4*_ga*MjEyMDg1MDE0OS4xNzY3ODE5NTg3*_ga_8GVWK8YMGL*czE3Njc5OTY3NTIkbzIkZzEkdDE3NjgwMDA0MjQkajEwJGwwJGgxNTA5MzgzNTI1*_gcl_au*MjAxMjU5NDQ0Mi4xNzY3ODE5NTg3LjMxOTY2NzczNi4xNzY4MDAwMzk2LjE3NjgwMDAzOTY.)**.
 
 ## 🛠️ TECNOLOGIAS UTILIZADAS
 
